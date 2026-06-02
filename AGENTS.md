@@ -1,4 +1,4 @@
-# AI 協作規則（teaching-personal）
+# AI 協作規則（Starting）
 
 這是**教學用個人形象網站**，不是完整 SaaS。
 
