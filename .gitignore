@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env*.local
+
+# 原圖備份太大，上線只需 .webp
+public/demo/originals/

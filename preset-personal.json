@@ -1,0 +1,20 @@
+{
+	"description": "個人形象網站範例文案，可複製到 site.config.ts 或請 AI 依此改寫",
+	"examples": {
+		"consultant": {
+			"name": "陳小華",
+			"tagline": "協助中小企業把品牌說清楚，讓客戶一眼就懂你",
+			"services": ["品牌定位工作坊", "官網文案規劃", "一對一顧問"]
+		},
+		"photographer": {
+			"name": "林映真",
+			"tagline": "用影像留下你們最重要的瞬間",
+			"services": ["形象照拍攝", "活動紀錄", "修圖交件"]
+		},
+		"coach": {
+			"name": "張教練",
+			"tagline": "一對一健身指導，陪你穩定變強",
+			"services": ["體態評估", "訓練課程", "飲食建議"]
+		}
+	}
+}
